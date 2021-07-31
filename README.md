@@ -3,7 +3,8 @@
 ### Обзор
 * Интро
 * Figma
-* Картинки
+* GitHub
+* Сайт
 
 **Интро**
 
@@ -23,3 +24,9 @@
 **GitHub**
 
 * [Ссылка на GitHub](https://github.com/zaicev-pavel/russian-travel.git)
+
+**Сайт**
+
+* [Ссылка на сайт](https://zaicev-pavel.github.io/russian-travel/index.html)
+
+
