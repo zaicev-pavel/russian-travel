@@ -21,7 +21,7 @@
 @import url("../blocks/lead/_margin/lead_margin_standart.css");
 
 @import url("../blocks/intro/intro.css");
-@import url("../blocks/intro/_style/intro_style_number.css");
+@import url("../blocks/intro/_style/intro__style-number.css");
 @import url("../blocks/intro/_margin/intro_margin_standart.css");
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
