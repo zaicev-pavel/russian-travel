@@ -1,21 +1,21 @@
-.intro_margin {
+.intro_margin_standart {
   margin: 92px 0 0 148px;
 }
 
 @media screen and (max-width: 1024px) {
-  .intro_margin {
+  .intro_margin_standart {
     margin: 92px 0 0 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .intro_margin {
+  .intro_margin_standart {
     margin: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .intro_margin {
+  .intro_margin_standart {
     margin: 64px 16px 0;
   }
 }

@@ -1,15 +1,15 @@
-.lead_margin {
+.lead_margin_standart {
   margin: 56px 148px 0;
 }
 
 @media screen and (max-width: 1024px) {
-  .lead_margin {
+  .lead_margin_standart {
     margin: 48px 48px 0;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .lead_margin {
+  .lead_margin_standart {
     margin: 48px 0 0;
   }
 }

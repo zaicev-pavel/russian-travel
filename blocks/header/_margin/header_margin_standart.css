@@ -1,15 +1,15 @@
-.header_margin {
+.header_margin_standart {
   margin: 28px 48px 0;
 }
 
 @media screen and (max-width: 768px) {
-  .header {
+  .header_margin_standart {
     margin: 28px 24px 0;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .header {
+  .header_margin_standart {
     margin: 16px 16px 0;
   }
 }

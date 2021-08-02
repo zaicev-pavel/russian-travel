@@ -1,0 +1,15 @@
+.cover_margin_standart {
+  margin: 92px 48px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover_margin_standart {
+    margin: 92px 0 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover_margin_standart {
+    margin: 65px 0 0;
+  }
+}
